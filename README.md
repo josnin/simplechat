@@ -1,1 +1,1 @@
-getting started with node js and socket.io
+getting started with node js and socket.io module
